@@ -1,0 +1,16 @@
+{
+  "name": "ga-assistant-phase1",
+  "version": "0.1.0",
+  "description": "Phase 1 demo for AI Agentic RAG internal assistant",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3"
+  }
+}

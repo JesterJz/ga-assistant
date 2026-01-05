@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sop-leave-01",
+    "title": "Quy trình xin nghỉ phép",
+    "source": "SOP-LEAVE-01",
+    "tags": ["nghi phep", "xin nghi", "leave"],
+    "content": "Quy trình xin nghỉ phép gồm: gửi đơn trên HR Portal, trưởng bộ phận duyệt, HR xác nhận và cập nhật phép.",
+    "answer": "Quy trình xin nghỉ phép:\n1) Điền đơn trên HR Portal (mẫu LP-01).\n2) Trưởng bộ phận duyệt trong 24 giờ.\n3) HR xác nhận và cập nhật ngày phép trong hệ thống.\nLưu ý: Nộp trước tối thiểu 1 ngày làm việc."
+  },
+  {
+    "id": "sop-admin-02",
+    "title": "Giấy xác nhận công tác",
+    "source": "SOP-ADMIN-02",
+    "tags": ["giay xac nhan cong tac", "xac nhan cong tac", "employment verification"],
+    "content": "Nhân viên cần giấy xác nhận công tác gửi yêu cầu tới HR, thời gian xử lý 2-3 ngày làm việc.",
+    "answer": "Để xin giấy xác nhận công tác:\n1) Gửi yêu cầu qua HR Portal (mẫu FV-02).\n2) HR xử lý trong 2-3 ngày làm việc.\n3) Nhận bản mềm qua email hoặc bản cứng tại HR."
+  },
+  {
+    "id": "policy-onboarding-01",
+    "title": "Onboarding nhân viên mới",
+    "source": "POLICY-ONB-01",
+    "tags": ["onboarding", "nhan vien moi"],
+    "content": "Thông tin onboarding gồm nội quy, liên hệ IT, liên hệ HR.",
+    "answer": "Chào mừng bạn! Vui lòng xem nội quy công ty, liên hệ IT để cấp quyền, và HR để hoàn tất hồ sơ."
+  }
+]
